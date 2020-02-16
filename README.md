@@ -1,2 +1,2 @@
 # Adventure
-A prototype adventure game
+A prototype action/adventure game
